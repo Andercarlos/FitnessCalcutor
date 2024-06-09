@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FitnessCalcutor</string>
+    <string name="calcular_imc">Calcular IMC</string>
+    <string name="imc_description">O Índice de Massa Corporal (IMC) é uma das principais ferramentas, adotada inclusive pela Organização Mundial de Saúde (OMS), para calcular o chamado “peso ideal”.</string>
+</resources>
