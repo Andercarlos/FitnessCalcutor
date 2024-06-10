@@ -41,7 +41,7 @@ class ImcActivity : AppCompatActivity() {
 
             val result = imcCalculate(peso,altura)
 
-           Log.d("teste","Imc é $result")
+            Toast.makeText(this, "Seu imc é $result",Toast.LENGTH_SHORT).show()
 
 
         }
